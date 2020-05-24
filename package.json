@@ -1,0 +1,22 @@
+{
+  "name": "app-del-clima",
+  "version": "0.0.1",
+  "description": "App del clima hecha con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioRicardoPineda/Clima-app-nodejs.git"
+  },
+  "keywords": [
+    "clima"
+  ],
+  "author": "Ricardo Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioRicardoPineda/Clima-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/MarioRicardoPineda/Clima-app-nodejs#readme"
+}
