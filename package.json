@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/MarioRicardoPineda/Clima-app-nodejs/issues"
   },
-  "homepage": "https://github.com/MarioRicardoPineda/Clima-app-nodejs#readme"
+  "homepage": "https://github.com/MarioRicardoPineda/Clima-app-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.3.1"
+  }
 }
