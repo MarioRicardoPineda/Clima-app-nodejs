@@ -1,5 +1,6 @@
 
 const location = require('./lugar/lugar')
+
 const argv = require('yargs')
   .options({
     direction: {
