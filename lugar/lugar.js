@@ -3,7 +3,6 @@ const axios = require('axios')
 
 const { KEY_GOOGLE_MAPS } = require('../config/config')
 
-// const API_KEY_MAPS = 'AIzaSyATpkO7CSRi1w_BwHEVBpJ4UNr0S-BR3Fs'
 const URL = 'https://maps.googleapis.com/maps/api/geocode/json'
 
 
